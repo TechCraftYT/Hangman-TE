@@ -1,0 +1,1 @@
+Hangman but it's in the terminal..... Was bored and asked ChatGPT what I should make, it came back with Hangman. So I did excatly that. Dotnet 9.0 Required. Built from a Hackintosh so you may need to run the .DLL
